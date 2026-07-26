@@ -1,6 +1,6 @@
-   import java.util.Scanner;
+import java.util.Scanner;
 
-
+// Question 2 - Student Marks Program
 // Subjects: 1 = Maths, 2 = Chemistry, 3 = Physics
 public class Question2 {
 
